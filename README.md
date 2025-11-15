@@ -1,0 +1,2 @@
+# IA_P3_CIFAR10_RicSteegmanmnJaimeJorge
+Actividad IA
